@@ -1,10 +1,10 @@
-* Reduction of the Random Access Memory Size in Adjoint Algorithmic Differentiation by Overloading
+# Reduction of the Random Access Memory Size in Adjoint Algorithmic Differentiation by Overloading
 
-** Building and Running
+## Building and Running
 make
 
-** Cleaning up
+## Cleaning up
 make clean
 
-** Contact
+## Contact
 naumann@stce.rwth-aachen.de
